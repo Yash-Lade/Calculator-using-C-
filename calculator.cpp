@@ -5,6 +5,7 @@ int main()
 {
 	int a,b,ch,add,mul,sub,mod,comp;
 	float div;
+	cout<<"\n              @Author Name - Yash Lade !!\n;
 	cout<<"Calculator \n";
 	do
 	{
